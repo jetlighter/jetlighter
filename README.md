@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @avi
-- 👀 I’m interested in automotive and content writing industry 
-- 🌱 I’m currently ..learning SQL and other Data analyst programs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in automotation
+- 🌱 I’m currently ..dev
 - 📫 How to reach me ...avinashr6649@gmail.com
 
 <!---
